@@ -1,8 +1,8 @@
 local segment = {
     isNeeded = true,
     text = "",
-    textColor = "42;161;152", 
-    fillColor = "147;161;161"
+    textColor = "38;198;218", 
+    fillColor = "84;110;122"
 }
 
 ---

@@ -40,3 +40,5 @@ plc_git_conflictSymbol = "!"
 --plc_npm_npmSymbol = "NPM"
 
 plc_start_symbol = "  "
+
+plc_admin_symbol = ""
