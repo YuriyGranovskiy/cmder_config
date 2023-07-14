@@ -197,7 +197,7 @@ function get_git_dir(path)
 			local git_dir = gitfile:read():match('gitdir: (.*)')
 			gitfile:close()
 
-			return git_dir and dir..'/'..git_dir
+			return git_dir and git_dir
 	end
 
 	-- Set default path to current directory
